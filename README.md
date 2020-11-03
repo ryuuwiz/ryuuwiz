@@ -5,4 +5,4 @@
 
 **Languages:**  
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<p align="left"><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true" alt="ryuuwiz" /> </p>
+<p align="left"><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="ryuuwiz" /> </p>
