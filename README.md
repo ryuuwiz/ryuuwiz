@@ -8,7 +8,7 @@
 
 <p align="left">
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
 </p>
 
 <p align="center">
