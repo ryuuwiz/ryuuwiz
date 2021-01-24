@@ -7,8 +7,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://devicon.dev/devicon.git/icons/python/python-plain.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="50" height="50"/>
 </p>
 
 <p align="center">
