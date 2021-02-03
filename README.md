@@ -7,5 +7,4 @@
 <a href="https://www.facebook.com/"> <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white" /></a>
 
 [![Ryu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&count_private=true&hide_border=false&layout=compact&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuwiz&layout=compact&show_icons=true&hide_border=false&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849)](https://github.com/ryuuwiz) 
