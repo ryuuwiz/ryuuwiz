@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Ryu ##
-<h3 align="center">A Front End Developer from Indonesia</h3>
 
 <a> <img src="https://komarev.com/ghpvc/?username=ryuuwiz&style=flat-square" alt="ryuuwiz" /> </a>
 <a href="https://t.me/"> <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white" /></a>
