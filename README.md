@@ -6,14 +6,6 @@
 <a href="https://www.instagram.com/"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/"> <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white" /></a>
 
-**Languages:**  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+[![Ryu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&count_private=true&hide_border=false&layout=compact&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849&include_all_commits=true)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&theme=tokyonight" alt="ryuuwiz" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuwiz&layout=compact&show_icons=true&hide_border=false&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849)](https://github.com/ryuuwiz) 
