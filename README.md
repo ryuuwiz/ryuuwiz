@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ryu</h1>
+## Hi 👋, I'm Ryu ##
 <h3 align="center">A Front End Developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuuwiz" alt="ryuuwiz" /></p>
+<a> <img src="https://komarev.com/ghpvc/?username=ryuuwiz&style=flat-square" alt="ryuuwiz" /> </a>
 
 **Languages:**  
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
