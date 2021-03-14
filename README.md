@@ -6,9 +6,9 @@
 <a href="https://www.facebook.com/"> <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuwiz&layout=compact&theme=react" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuwiz&layout=compact&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&theme=react" />
 </a>
