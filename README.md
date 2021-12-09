@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://cardivo.vercel.app/api?name=Ryuuwiz&description=Hi%F0%9F%91%8B!%20I%27m%20a%20Front-end%20Developer.%20Nice%20to%20meet%20you!&image=https://avatars.githubusercontent.com/u/50941316?v=4&backgroundColor=%231d1f28&pattern=ticTacToe&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6" alt="Profile Card" />
+    <img src="https://cardivo.vercel.app/api?name=Ryuuwiz&description=Hi%F0%9F%91%8B!%20I%27m%20a%20Web%20Developer.%20Nice%20to%20meet%20you!&image=https://avatars.githubusercontent.com/u/50941316?v=4&backgroundColor=%231d1f28&pattern=ticTacToe&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6" alt="Profile Card" />
   </a>
   
   <a href="https://discord.com/users/624934495581372426">
