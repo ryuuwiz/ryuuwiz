@@ -8,16 +8,13 @@
   <a href="https://facebook.com/ryuuwiz">
     <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
-<details>
-	<summary>&#9776; My Stats </summary>
-	<br>
+  <br /> <br />
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&theme=react"/>
 	</a>
+    <br /> <br />
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuwiz&layout=compact&theme=react" />
 	</a>
-</details>
 		
 </div>
