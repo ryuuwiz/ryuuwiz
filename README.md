@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <br /> <br />
+  <a href="https://www.codewars.com/users/ryuuwiz">
+    <img src="https://www.codewars.com/users/ryuuwiz/badges/large" alt="Codewars" />
+  </a>
+  <br /> <br />
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuwiz&show_icons=true&theme=react"/>
 	</a>
@@ -18,3 +22,4 @@
 	</a>
 		
 </div>
+
